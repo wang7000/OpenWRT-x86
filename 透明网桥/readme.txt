@@ -1,1 +1,1 @@
-OpenWRT透明网桥插件
+OpenWRT插件
